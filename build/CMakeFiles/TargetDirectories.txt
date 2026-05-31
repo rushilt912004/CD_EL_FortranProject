@@ -1,0 +1,15 @@
+/mnt/c/Users/dell/Downloads/fortran_pjt/build/CMakeFiles/common-analyzer.dir
+/mnt/c/Users/dell/Downloads/fortran_pjt/build/CMakeFiles/test.dir
+/mnt/c/Users/dell/Downloads/fortran_pjt/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/dell/Downloads/fortran_pjt/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/dell/Downloads/fortran_pjt/build/CMakeFiles/list_install_components.dir
+/mnt/c/Users/dell/Downloads/fortran_pjt/build/CMakeFiles/install.dir
+/mnt/c/Users/dell/Downloads/fortran_pjt/build/CMakeFiles/install/local.dir
+/mnt/c/Users/dell/Downloads/fortran_pjt/build/CMakeFiles/install/strip.dir
+/mnt/c/Users/dell/Downloads/fortran_pjt/build/tests/CMakeFiles/test.dir
+/mnt/c/Users/dell/Downloads/fortran_pjt/build/tests/CMakeFiles/edit_cache.dir
+/mnt/c/Users/dell/Downloads/fortran_pjt/build/tests/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/dell/Downloads/fortran_pjt/build/tests/CMakeFiles/list_install_components.dir
+/mnt/c/Users/dell/Downloads/fortran_pjt/build/tests/CMakeFiles/install.dir
+/mnt/c/Users/dell/Downloads/fortran_pjt/build/tests/CMakeFiles/install/local.dir
+/mnt/c/Users/dell/Downloads/fortran_pjt/build/tests/CMakeFiles/install/strip.dir

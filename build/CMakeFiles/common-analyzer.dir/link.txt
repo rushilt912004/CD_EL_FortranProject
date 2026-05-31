@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/common-analyzer.dir/src/main.cpp.o" -o common-analyzer 
