@@ -1,0 +1,5 @@
+      SUBROUTINE A
+        REAL R1
+        DOUBLE PRECISION D1
+        COMMON /ALIGN/ R1, D1
+      END
